@@ -1,0 +1,16 @@
+
+body {
+	background-color:rgba(250,220,180,1);
+	color:#AB4022;
+}
+
+.leaves {
+	color:inherit;
+	background-color: rgb(200,240,100,0.8);
+	width: 300px;
+	border: 15px solid rgba(220,190,110,0.5);
+	border-radius:25px 0px 25px 0px;
+	padding: 20px;
+	margin: 40px;
+}
+/* using this for class. feel free to adopt or modify the style */
